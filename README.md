@@ -21,3 +21,12 @@ A trustworthy question-answering tool that answers only from provided sources an
 
 ```bash
 python run.py
+## How to Run
+
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run:
+
+```bash
+python run.py
